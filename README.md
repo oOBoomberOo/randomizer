@@ -9,13 +9,13 @@
     Again if you see "#" you can assume that we're talking about scoreboard
 
 # 2) Random number generators
-  ## 2.1) Random 1 | In-game Pseudo-random number generator
+  ## -Random 1 | In-game Pseudo-random number generator
     This method use "Linear congruential generator" algorithm to generate random number
     Pros:
      - no entity required
     Cons:
      - the result is less random than others method
-   ### 2.1.1) Genereate random number
+   ### -Genereate random number
      Simply run "/function boomber:randomizer/random" This will generate random number with default setting which is random number between 0 - 10.
 
      You can also run /function boomber:randomizer/random/[0-99, 0-100, custom] to generate random number with different range, the first two are exactly what the name state generate random number between 0-99 and 0-100 but custom allow you to generate number between any range you want.
