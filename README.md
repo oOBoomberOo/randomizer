@@ -10,11 +10,11 @@
 
 # 2) Random number generators
   1. Random 1 | In-game Pseudo-random number generator
-    This method use "Linear congruential generator" algorithm to generate random number
-    [Pros]:
-     \- no entity required
-    [Cons]:
-     \- the result is less random than others method
+    This method use "Linear congruential generator" algorithm to generate random number.\n
+    [Pros]:\n
+     \- no entity required\n
+    [Cons]:\n
+     \- the result is less random than others method\n
     1. Genereate random number
 	  Simply run "/function boomber:randomizer/random" This will generate random number with default setting which is random number between 0 - 10.
 
