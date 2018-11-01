@@ -9,7 +9,7 @@
     Again if you see "#" you can assume that we're talking about scoreboard
 
 # 2) Random number generators
-  1. Random 1 | In-game Pseudo-random number generator
+  1. Random 1 \| In-game Pseudo-random number generator
   
     This method use "Linear congruential generator" algorithm to generate random number.
 	
