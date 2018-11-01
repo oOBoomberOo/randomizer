@@ -1,0 +1,17 @@
+{
+	"display": {
+		"title": "Boobmer's Randomizer v0.0.1",
+		"description": "A random datapack",
+		"icon": {
+			"item": "minecraft:redstone_repeater"
+		},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "boomber:boomber",
+	"criteria": {
+		"trigger": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
