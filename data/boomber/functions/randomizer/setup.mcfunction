@@ -35,4 +35,3 @@ scoreboard players set #boomber.randomizer.random_1.time bb.variable 0
 
 # Randomizer will return generated number to this scoreboard
 scoreboard players set #boomber.randomizer.result bb.variable 0
-
